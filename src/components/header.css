@@ -1,0 +1,73 @@
+.header_component{
+    color: white;
+}
+.header_list{
+    list-style-type: none;
+    /* margin-left: 20px; */
+}
+.header_list li{
+    display: inline;
+    margin-left: 30px;
+    color: white;
+}
+.header_avatar_div{
+    width: 75px;
+    position: relative;
+    height: 40px;
+    background-color: white;
+    display: inline-block;
+    float: left;
+    margin-left: 20px;
+    border-radius: 20px;
+    margin-top: 7px;
+}
+.header_host_txt{
+    color: white;
+}
+.header_icon{
+    margin-left: -10px;
+}
+.headeR_component{
+    padding-top: 15px;
+}
+.header_globe_icon{
+    float: left;
+    margin-left: 20px;
+    margin-top: 17px;
+    color: white;
+
+}
+.header_globe_icon_DIV{
+    display: inline;
+}
+.header_host_txt_div{
+    padding-top: 15px;
+    /* margin-left: 40px; */
+    float: right;
+}
+.header_menu_icon{
+    margin-left: 7px;
+    float: left;
+    margin-top: 10px;
+}
+.header_avatar_icon{
+    margin-top: 2px;
+    margin-left: 10px;
+}
+.header_avatar_icon_div{
+    display: inline;
+}
+.header_menu_icon_div{
+    margin-top: -50px !important;
+    display: inline;
+}
+.badge{
+    width: 13px;
+    height: 13px;
+    border-radius: 50px;
+    background-color: red;
+    display: inline;
+    position: absolute;
+    top: 2px;
+    right:2px
+}

@@ -1,0 +1,8 @@
+.helper_bar_component{
+    background-color: #e44561;
+    width: 90%;
+    height:400px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 50px;
+}

@@ -1,0 +1,10 @@
+.footer_copy_section span{
+    padding-left: 6px;
+}
+.footer_dot{
+    position: relative;
+    bottom: 2px;
+}
+.footer_copy_section{
+    margin-top: 0px;
+}

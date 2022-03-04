@@ -1,0 +1,22 @@
+.search_bar_component{
+    width: 60%;
+    background-color: white;
+    height:60px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin:auto;
+    text-align: left;
+}
+.location{
+    margin-left: 20px;
+    margin-top: -10px !important;
+    font-size: 13px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.where_going{
+    margin-left: 20px;
+    margin-top: 0px !important;
+    font-size: 15px;
+    color: gray;
+}

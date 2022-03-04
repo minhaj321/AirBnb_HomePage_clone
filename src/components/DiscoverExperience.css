@@ -1,0 +1,17 @@
+.mountain_todo{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFuc_i0n8cMnZ44bDzUq0HJE7yrxXVVE9peQ&usqp=CAU');
+    height: 550px;
+    width: 96%;
+    background-size: cover;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+}
+.home_todo{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp40pVwSPbqTeoTTSMn1lmgTRMHW_OPJilXg&usqp=CAU');
+    height: 550px;
+    width: 96%;
+    background-size: cover;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+
+}

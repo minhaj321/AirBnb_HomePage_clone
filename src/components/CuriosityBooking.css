@@ -1,0 +1,19 @@
+.booking_component{
+    background-image: url('https://images.unsplash.com/photo-1540925331495-a897bc754626?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Zm9yZXN0JTIwY2FtcHxlbnwwfHwwfHw%3D&w=1000&q=80');
+    height: 70%;
+    margin-top: 100px !important;
+    width: 200px;
+    position: relative;
+    background-size: cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    /* background-color: yellow; */
+}
+.flexible_btn{
+color: #B555A3;
+font-weight: bold;
+}
+/* cave */
+/* https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFuc_i0n8cMnZ44bDzUq0HJE7yrxXVVE9peQ&usqp=CAU */
+/* house */
+/* https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp40pVwSPbqTeoTTSMn1lmgTRMHW_OPJilXg&usqp=CAU */
